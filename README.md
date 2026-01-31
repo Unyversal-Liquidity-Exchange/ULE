@@ -8,6 +8,8 @@
 
 **ULE** (Unyversal Liquidity Exchange) is a high-performance, sovereign **Layer 1 blockchain** purpose-built to deliver universal, instant, and low-friction liquidity for digital assets --- with a primary focus on **NFTs**, tokenized real-world assets, and cross-chain value flows.
 
+![$ULE](https://github.com/Unyversal-Liquidity-Exchange/ULE/blob/main/uny-token.jpg?raw=true)
+
 Unlike general-purpose chains that treat NFTs as second-class citizens, ULE embeds protocol-level optimizations directly into the consensus and execution layers: zero-fee signature-based listings, protocol-funded instant exit pools, native cross-chain synthetic mirroring, and a deflationary native token ($ULE) with built-in burn mechanics. The result is the fastest, cheapest, and most user-centric marketplace infrastructure in Web3 --- designed from genesis to dominate multichain NFT and token trading.
 
 ULE combines **EVM compatibility** (via Polygon CDK or Cosmos SDK modules) with custom protocol extensions, sub-2-second block times, and a novel **Proof-of-Stake + NFT-Liquidity-Provisioning (PoL)** consensus model that rewards validators who provide deep liquidity to blue-chip collections.
